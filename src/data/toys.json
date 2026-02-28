@@ -1,0 +1,165 @@
+
+ [
+  {
+    "title": "Wireless Noise-Cancelling Headphones",
+    "image": "https://i.ibb.co/NgbFW3Kn/wh950nb-black-01-500x500.webp",
+    "price": 1250,
+    "discount": 10,
+    "description": "High-quality wireless headphones with active noise cancellation, deep bass, and up to 30 hours of battery life. Ideal for travel, work, and entertainment.",
+    "reviews": 245,
+    "sold": 680,
+    "ratings": 4.6,
+    "info": [
+      "Bluetooth 5.3",
+      "30-hour battery life",
+      "Fast charging",
+      "Built-in microphone"
+    ]
+  },
+  {
+    "title": "Smart Fitness Watch",
+    "image": "https://i.ibb.co/GQb4fbmS/Sound-PEATS-Watch-Pro-1-Smart-Watch-Fitness-Tracker-1.jpg",
+    "price": 980,
+    "discount": 15,
+    "description": "Advanced fitness watch with heart rate monitoring, sleep tracking, and multiple sports modes to help you stay healthy and active.",
+    "reviews": 312,
+    "sold": 1025,
+    "ratings": 4.5,
+    "info": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Water resistant",
+      "7-day battery life"
+    ]
+  },
+  {
+    "title": "Portable Bluetooth Speaker",
+    "image": "https://i.ibb.co/4RZd3hrV/JBL-GO-4-Portable-Waterproof-Speaker-Blue-3987.jpg",
+    "price": 750,
+    "discount": 12,
+    "description": "Compact and powerful Bluetooth speaker delivering rich sound, strong bass, and a durable design for indoor and outdoor use.",
+    "reviews": 198,
+    "sold": 540,
+    "ratings": 4.4,
+    "info": [
+      "360-degree sound",
+      "Waterproof",
+      "10-hour playtime",
+      "Hands-free calling"
+    ]
+  },
+  {
+    "title": "Wireless Charging Pad",
+    "image": "https://i.ibb.co/d44GmH6M/a1d41ee71f857221624b182cb2ac8e1e-jpg-720x720q80.jpg",
+    "price": 450,
+    "discount": 8,
+    "description": "Fast wireless charging pad compatible with most smartphones and earbuds, featuring a sleek and minimalist design.",
+    "reviews": 134,
+    "sold": 410,
+    "ratings": 4.3,
+    "info": [
+      "Fast charging support",
+      "Overheat protection",
+      "Slim design",
+      "USB-C input"
+    ]
+  },
+  {
+    "title": "Smart Home Security Camera",
+    "image": "https://i.ibb.co/jvTFwRKZ/CIDII6-DJLl-V0fd-JM6k-NMMc-Q6-QVl-NNY50hzsc0-Yh-X.jpg",
+    "price": 1650,
+    "discount": 18,
+    "description": "Smart security camera with HD video, night vision, and motion detection to keep your home safe 24/7.",
+    "reviews": 289,
+    "sold": 760,
+    "ratings": 4.7,
+    "info": [
+      "1080p HD video",
+      "Night vision",
+      "Motion alerts",
+      "Mobile app control"
+    ]
+  },
+  {
+    "title": "Gaming Mechanical Keyboard",
+    "image": "https://i.ibb.co/PGx8YHdT/kb895l-01-500x500.webp",
+    "price": 1350,
+    "discount": 20,
+    "description": "Durable mechanical keyboard designed for gamers, featuring RGB lighting, fast response keys, and ergonomic comfort.",
+    "reviews": 421,
+    "sold": 1180,
+    "ratings": 4.8,
+    "info": [
+      "RGB backlighting",
+      "Mechanical switches",
+      "Anti-ghosting keys",
+      "USB connection"
+    ]
+  },
+  {
+    "title": "USB-C Multiport Adapter",
+    "image": "https://i.ibb.co/bgC76XKj/Satechi-8-in-1-USB-C-Hub-Multiport-Adapter-V2-Multifunction-Docking-Station-PRICE-IN-BANGLADESH-MC-S.webp",
+    "price": 620,
+    "discount": 10,
+    "description": "Versatile USB-C adapter that expands your laptop connectivity with HDMI, USB, and SD card support.",
+    "reviews": 156,
+    "sold": 490,
+    "ratings": 4.4,
+    "info": [
+      "HDMI output",
+      "USB 3.0 ports",
+      "SD/TF card reader",
+      "Compact design"
+    ]
+  },
+  {
+    "title": "True Wireless Earbuds",
+    "image": "https://i.ibb.co/WW9dXKsX/Noise-Buds-R1-Truly-Wireless-Earbuds.jpg",
+    "price": 890,
+    "discount": 14,
+    "description": "Lightweight true wireless earbuds offering clear sound, noise isolation, and long-lasting battery performance.",
+    "reviews": 368,
+    "sold": 940,
+    "ratings": 4.5,
+    "info": [
+      "Touch controls",
+      "Charging case",
+      "Noise isolation",
+      "20-hour total battery"
+    ]
+  },
+  {
+    "title": "Smart LED Desk Lamp",
+    "image": "https://i.ibb.co/27khqjP8/19e936bb764b04badefd1cce130610c4.jpg",
+    "price": 520,
+    "discount": 9,
+    "description": "Smart LED desk lamp with adjustable brightness and color temperature, perfect for reading, studying, or working.",
+    "reviews": 97,
+    "sold": 260,
+    "ratings": 4.2,
+    "info": [
+      "Touch control",
+      "Adjustable brightness",
+      "Eye-care lighting",
+      "USB powered"
+    ]
+  },
+  {
+    "title": "Portable Power Bank 20000mAh",
+    "image": "https://i.ibb.co/39wY1xfy/UGREEN-100-W-Power-Bank-20000m-Ah-Nexode-Portable-Charger-USB-C-3-Port-PD-1.jpg",
+    "price": 1100,
+    "discount": 16,
+    "description": "High-capacity power bank that keeps your devices charged on the go, featuring fast charging and multiple ports.",
+    "reviews": 504,
+    "sold": 1520,
+    "ratings": 4.7,
+    "info": [
+      "20000mAh capacity",
+      "Fast charging",
+      "Dual USB output",
+      "LED power indicator"
+    ]
+  }
+]
+
+
