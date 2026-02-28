@@ -1,3 +1,4 @@
+"use client"
 import LoginForm from "@/components/auth/LoginForm";
 import AuthModal from "@/components/modal/authModal";
 import React, { useState } from "react";
